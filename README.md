@@ -1,2 +1,5 @@
-# Projeto Site da Barbearia
- Projeto desenvolvido no treinamento de HTML e CSS da Alura
+# Curso de HMTL #
+
+**Olá! Bem vindo. Esse foi o trabalho desevolvido na plataforma Alura**
+
+## Curso de HTML e CSS ##
